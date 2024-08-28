@@ -16,7 +16,7 @@ Com o VS Code aberto abrir o terminal com powershell
 
 ## Testar as rotas da API
 
-Abrir o arquivo pdf que se encontra na pasta rotas_de_teste e montar os endpopints no Thunder Client, Postman ou Insomnia conforme descritos no documento
+Abrir o arquivo pdf que se encontra na pasta rotas_de_teste e montar os endpoints no Thunder Client, Postman ou Insomnia conforme descritos no documento
 
 ## Encerrar a API
 
